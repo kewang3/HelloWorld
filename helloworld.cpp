@@ -7,6 +7,7 @@ int main()
 	int a = 2, b = 5;
 	cout << a + b << endl;
 	cout << "my home is at xuchang, wang fang yuan" << endl;
+	cout << "hello world" << endl;
 	system("pause");
 	return 0;
 }
