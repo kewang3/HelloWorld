@@ -4,6 +4,9 @@ using namespace std;
 int main()
 {
 	cout << "hello world" << endl;
-	cout << "my name is wang shan" << endl;
+	int a = 2, b = 5;
+	cout << a + b << endl;
+	cout << "my home is at xuchang, wang fang yuan" << endl;
+	system("pause");
 	return 0;
 }
