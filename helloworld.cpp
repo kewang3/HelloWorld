@@ -3,12 +3,10 @@ using namespace std;
 
 int main()
 {
-	cout << "hello world" << endl;
-	int a = 2, b = 5;
-	cout << a + b << endl;
-	cout << "my home is at xuchang, wang fang yuan" << endl;
-	cout << "hello world" << endl;
-	cout << "good morning" << endl;
+	cout << "i am first line" << endl;
+	cout << "i am second line" << endl;
+	cout << "i am third line" << endl;
 	system("pause");
+
 	return 0;
 }
